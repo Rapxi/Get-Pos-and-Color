@@ -2,6 +2,8 @@
 #SingleInstance Force
 CoordMode "Pixel", "Screen"
 
+MsgBox("Press F1 to get Pos and Color")
+
 F1:: {
     MousePosAndColor
 }
